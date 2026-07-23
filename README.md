@@ -19,8 +19,3 @@ A responsive static website for a property maintenance and repair service focuse
 - Google Reviews call-to-action section
 - SEO-friendly metadata and structured content
 
-## Next steps
-
-1. Replace the placeholder phone number and WhatsApp link with your real contact details.
-2. Update the placeholder images with real project photos.
-3. Deploy to any static hosting service and enable SSL.
